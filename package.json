@@ -31,6 +31,6 @@
   "homepage": "https://github.com/LucasLeandro1204/pornsearch#readme",
   "dependencies": {
     "axios": "^0.15.3",
-    "cheerio": "^0.22.0"
+    "cheerio": "^1.0.0"
   }
 }
